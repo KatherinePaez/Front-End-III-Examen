@@ -1,7 +1,13 @@
 * {
   margin: 0;
   box-sizing: border-box;
-  background: linear-gradient(260deg, rgb(0, 0, 0), rgb(1, 51, 4));
+  background-color: #009975;
+ 
+}
+
+#root{
+  background-size:cover;
+  background-image: url('./Captura.JPG');
 }
 
 .layout {
@@ -13,6 +19,7 @@
   justify-content: center;
   align-items: center;
   font-family: "Hina Mincho", serif;
+  
 }
 
 .historia {
@@ -21,6 +28,7 @@
   align-items: center;
   margin-bottom: 30px;
   color: white;
+  text-align: center;
 }
 
 .opciones {
