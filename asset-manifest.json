@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Front-End-III-Examen/static/css/main.480bf467.chunk.css",
+    "main.css": "/Front-End-III-Examen/static/css/main.40f848f3.chunk.css",
     "main.js": "/Front-End-III-Examen/static/js/main.2c7bf6e4.chunk.js",
     "main.js.map": "/Front-End-III-Examen/static/js/main.2c7bf6e4.chunk.js.map",
     "runtime-main.js": "/Front-End-III-Examen/static/js/runtime-main.5a58ca69.js",
@@ -8,13 +8,14 @@
     "static/js/2.c9c83b6e.chunk.js": "/Front-End-III-Examen/static/js/2.c9c83b6e.chunk.js",
     "static/js/2.c9c83b6e.chunk.js.map": "/Front-End-III-Examen/static/js/2.c9c83b6e.chunk.js.map",
     "index.html": "/Front-End-III-Examen/index.html",
-    "static/css/main.480bf467.chunk.css.map": "/Front-End-III-Examen/static/css/main.480bf467.chunk.css.map",
-    "static/js/2.c9c83b6e.chunk.js.LICENSE.txt": "/Front-End-III-Examen/static/js/2.c9c83b6e.chunk.js.LICENSE.txt"
+    "static/css/main.40f848f3.chunk.css.map": "/Front-End-III-Examen/static/css/main.40f848f3.chunk.css.map",
+    "static/js/2.c9c83b6e.chunk.js.LICENSE.txt": "/Front-End-III-Examen/static/js/2.c9c83b6e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Front-End-III-Examen/static/media/Captura.62bdc0f2.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.5a58ca69.js",
     "static/js/2.c9c83b6e.chunk.js",
-    "static/css/main.480bf467.chunk.css",
+    "static/css/main.40f848f3.chunk.css",
     "static/js/main.2c7bf6e4.chunk.js"
   ]
 }
